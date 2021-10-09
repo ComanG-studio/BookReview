@@ -1,6 +1,6 @@
-#H1 LevelUp goes brrr
+# LevelUp goes brrr
 
-#H2 Entry To the "Level up"
+## Entry To the "Level up"
 
 "*You should be thinking about gameplay all the time and how things affect the player, even when designing passive elements like cutscenes, monetization models, and pause screens.*"
     First of all it`s not overthinking. It is caring about quality and "fun" of the end product.
@@ -30,3 +30,22 @@ Hee-hee I know that industry needs skills and not dreamers, but this book spills
 Guys we`ll eat chilli today.You have no choice:
 "*At the very least, make sure to try the new chili recipe.*"
 
+## Geting N00bed
+
+Don`t call me noob I was just intrested:
+"1*The term “n00b” is short for “newbie,” or someone who is new to a game or other venture. While the term predates the Internet, it became popular with MMORPG communities. Not a particularly flattering term, as it implies inexperience and/or ignorance. For example, only a real n00b would read a footnote defining what a n00b is!*"
+
+Oh master I am the on who reads everything in the book(exept forewords `cause fuck `em, am I right?)
+"*It’s pretty basic stuff and if you already know it all and are not a n00b, feel free to skip it. However, you are going to be missing out on a lot of great stuff.*"
+
+Ground rules... Really very ground.
+"*Q: What is a game?*
+ *A: A game is an activity that*
+    -*Requires at least one player*
+    -*Has rules*
+    -*Has a win and/or lose condition*"
+
+Second ground rule.
+"*A game needs a clear objective so the player knows what the goal is. You should be able to sum up a game’s objectives quickly and clearly /.../ The lesson is, you need to keep your game objectives simple.*"
+
+WIP
