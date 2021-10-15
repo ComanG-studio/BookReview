@@ -48,4 +48,17 @@ Ground rules... Really very ground.
 Second ground rule.
 "*A game needs a clear objective so the player knows what the goal is. You should be able to sum up a game’s objectives quickly and clearly /.../ The lesson is, you need to keep your game objectives simple.*"
 
-WIP
+### History
+
+ So  yeah...
+
+### Game Genres
+
+"*The term **genre** is used to describe a category of something—often the categories used to describe books, movies or music. Music can be rock and roll, gospel, or country. Movies can be action, romance, or comedies. Books can be dramas, biographies, or horror; you get the idea.*"
+
+Yeah shooter is a genre and top down it`s more about view and not a genre. Awkward situation.
+
+By the way we`re talking her only about *game genre* and not about *story genre*
+
+Oh sh---...There`s a lot coming on in Level5
+"*...you’ll find a big list in **Bonus Level 5** describing all sorts of sub-genres and hybrids genres with lots of examples.*"
