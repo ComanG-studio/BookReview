@@ -2,7 +2,7 @@
 
 ## THE GENERAL IDEA OF THE GAME
 
-In this game layer is a snowboardist named Alto whois also a llama shepherd. His llamas flee so he try to catch them by his epic snowboard skills.
+In this game pslayer is a snowboardist named Alto whois also a llama shepherd. His llamas flee so he try to catch them by his epic snowboard skills.
 
 ## Target Audience 
 
